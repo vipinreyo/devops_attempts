@@ -9,5 +9,5 @@ def subtract(first_item, second_item):
     return first_item - second_item
 
 
-def multiple(first_item, second_item):
+def multiply(first_item, second_item):
     return first_item * second_item
